@@ -135,4 +135,12 @@ Customer-Shopping-Behavior-Analysis/
 │   └── Power BI Dashboard
 │
 └── README.md
+📌 Project Outcome
+This project demonstrates how SQL and Power BI can be used together to analyze customer behavior, identify business trends, and convert raw transactional data into actionable insights.
+The analysis provides a data-driven foundation for improving customer retention, marketing strategies, product performance, revenue growth, and business decision-making.
+👩‍💻 Author
+Jaya Kumari
+Aspiring Data Analyst | B.Tech – Computer Science Engineering
+Skills:
+SQL | PostgreSQL | Power BI | Excel | Python | Data Analytics
 
